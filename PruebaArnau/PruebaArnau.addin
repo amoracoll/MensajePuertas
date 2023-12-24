@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command PruebaArnau</Text>
+    <Description>Some description for PruebaArnau</Description>
+    <Assembly>PruebaArnau.dll</Assembly>
+    <FullClassName>PruebaArnau.Command</FullClassName>
+    <ClientId>8798e15b-1f2a-4e4a-b1fc-3dbc8f41fff1</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application PruebaArnau</Name>
+    <Assembly>PruebaArnau.dll</Assembly>
+    <FullClassName>PruebaArnau.App</FullClassName>
+    <ClientId>c7a5c697-b52f-491b-82e1-40455b5aa7ad</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

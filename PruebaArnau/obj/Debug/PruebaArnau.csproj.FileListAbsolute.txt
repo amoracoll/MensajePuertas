@@ -1,0 +1,6 @@
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PruebaArnau\PruebaArnau\bin\Debug\PruebaArnau.dll
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PruebaArnau\PruebaArnau\bin\Debug\PruebaArnau.pdb
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PruebaArnau\PruebaArnau\obj\Debug\PruebaArnau.csproj.AssemblyReference.cache
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PruebaArnau\PruebaArnau\obj\Debug\PruebaArnau.csproj.CoreCompileInputs.cache
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PruebaArnau\PruebaArnau\obj\Debug\PruebaArnau.dll
+C:\Users\arnau.mora_modelical\Desktop\MisComandos\PruebaArnau\PruebaArnau\obj\Debug\PruebaArnau.pdb
